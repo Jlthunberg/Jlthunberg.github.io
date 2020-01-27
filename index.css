@@ -5,15 +5,6 @@ img {
     width: 150px;
   }
 
-/* .main-content {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    justify-content: space-evenly;
-    align-items: space-between;
-    align-content: stretch;
-} */
-
 .main-introduction {
     align-self: flex-end;
     order: 0;
